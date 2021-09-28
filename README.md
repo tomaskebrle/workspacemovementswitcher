@@ -1,6 +1,6 @@
 # Movement detected workspace swithcer
 
-Simple python script that swithce your workspace/Desktop
+Simple python script that switches your workspace/Desktop
 
 # How it's done?
 It uses openCV to detect movement through your webcam, and then pyautogui to press keyboard shortcut to switch your workspace, this mean you have to one workspace to right.
